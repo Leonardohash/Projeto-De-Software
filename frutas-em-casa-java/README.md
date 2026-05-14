@@ -9,7 +9,7 @@ Implementação em Java do cenário do caso de uso de assinatura do sistema **Fr
 
 ## Como compilar e executar
 
-No terminal, dentro da pasta do projeto:
+No terminal, dentro da pasta do projeto (frutas-em-casa-java):
 
 ```bash
 javac -d out $(find src/main/java -name "*.java")
