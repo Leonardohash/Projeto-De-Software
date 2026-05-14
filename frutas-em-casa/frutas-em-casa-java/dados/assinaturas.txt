@@ -1,0 +1,4 @@
+protocolo; assinante; celular; plano; valorPlano; itens;endereco; statusPagamento; statusAssinatura
+202605119269;Assinante Teste;11999999999;Plano Premium;49.99;Maçã x4, Morango x2, Abóbora x1, Cenoura x3, Ervilha x2, Alface x2, Rúcula x2;Rua Teste, 123 - CEP 00000-000 - Apto 1;APROVADO;ATIVA
+
+202605132090;Assinante Teste;9999999999;Plano Comum;15,99;Maçã x2, Abóbora x1, Alface x2;mackenzie, 1111 - CEP 00000000;APROVADO;ATIVA
