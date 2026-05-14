@@ -16,13 +16,6 @@ javac -d out $(find src/main/java -name "*.java")
 java -cp out br.com.frutasemcasa.Main
 ```
 
-No Windows PowerShell:
-
-```powershell
-javac -d out (Get-ChildItem -Recurse src/main/java/*.java).FullName
-java -cp out br.com.frutasemcasa.Main
-```
-
 ## Dados de teste
 
 - Código SMS fixo para teste: `6661`
